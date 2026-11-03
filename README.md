@@ -13,7 +13,8 @@ MinIO / AWS S3 / 阿里 OSS / Cloudflare R2。
 brew install rclone                      # macOS
 # curl https://rclone.org/install.sh | sudo bash   # Linux
 
-# 1. 进到解压后的目录
+# 1. 拿到代码（克隆或解压都行）
+git clone https://github.com/lan1081210/osca-cloud-storage.git
 cd osca-cloud-storage
 
 # 2. 交互式配置：endpoint / AK / SK / 桶，然后自检（真传一次再删）
