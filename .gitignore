@@ -1,0 +1,5 @@
+# 本地凭据，永远别提交
+osca.env
+rclone.conf
+*.log
+.DS_Store
