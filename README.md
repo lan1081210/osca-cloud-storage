@@ -1,5 +1,7 @@
 # osca-cloud-storage
 
+[English](README.en.md) · 中文
+
 一个 Hermes Agent 技能：把 `~/.hermes` 里的数据（记忆、技能、会话库、学习资料）备份到
 **S3 兼容网盘**，本机只留活数据。默认参数按中科院高能所 OSCA 联盟云存储写好，也能直接对接
 MinIO / AWS S3 / 阿里 OSS / Cloudflare R2。
